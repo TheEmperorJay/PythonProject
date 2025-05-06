@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907f6e18-4840-4508-85a6-67312d0dfc92" name="Changes" comment="Assignment 3 completed">
-      <change afterPath="$PROJECT_DIR$/Assignment 4/ErrorHandline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 4/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 4/WriteAndAppend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 4/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 4/sample.txt" afterDir="false" />
+    <list default="true" id="907f6e18-4840-4508-85a6-67312d0dfc92" name="Changes" comment="Assignment 4 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744889005331</updated>
       <workItem from="1744889006393" duration="4891000" />
-      <workItem from="1744951910476" duration="11445000" />
+      <workItem from="1744951910476" duration="18876000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />
@@ -170,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745071468768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignment 4 completed">
+      <option name="closed" value="true" />
+      <created>1745073604070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745073604070</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Assignment 4 completed">
+      <option name="closed" value="true" />
+      <created>1745073612830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745073612830</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +215,8 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="Completed" />
     <MESSAGE value="Assignment 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 3 completed" />
+    <MESSAGE value="Assignment 4 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 4 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
