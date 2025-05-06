@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="907f6e18-4840-4508-85a6-67312d0dfc92" name="Changes" comment="Assignment 4 completed">
+      <change afterPath="$PROJECT_DIR$/Assignment 5/List_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 5/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 5/Student_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +65,11 @@
   "keyToString": {
     "Python.ErrorHandline.executor": "Run",
     "Python.Factorial.executor": "Run",
+    "Python.List_slicing.executor": "Run",
     "Python.Odd-Even.executor": "Run",
     "Python.Personlized_greeting.executor": "Run",
     "Python.Simple_calculator.executor": "Run",
+    "Python.Student_dict.executor": "Run",
     "Python.SumOfInteger.executor": "Run",
     "Python.WriteAndAppend.executor": "Run",
     "Python.calculator.executor": "Run",
@@ -115,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744889005331</updated>
       <workItem from="1744889006393" duration="4891000" />
-      <workItem from="1744951910476" duration="18876000" />
+      <workItem from="1744951910476" duration="20696000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />
@@ -181,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745073612830</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Assignment 4 completed">
+      <option name="closed" value="true" />
+      <created>1746517140908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746517140908</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,11 +246,13 @@
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1744889318315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$Personlized_greeting.coverage" NAME="Personlized_greeting Coverage Results" MODIFIED="1744891760234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$WriteAndAppend.coverage" NAME="WriteAndAppend Coverage Results" MODIFIED="1745073539008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 4" />
+    <SUITE FILE_PATH="coverage/PythonProject$List_slicing.coverage" NAME="List_slicing Coverage Results" MODIFIED="1746518351878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 5" />
     <SUITE FILE_PATH="coverage/PythonProject$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1744990069199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
     <SUITE FILE_PATH="coverage/PythonProject$Odd_Even.coverage" NAME="Odd-Even Coverage Results" MODIFIED="1744987621283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2" />
     <SUITE FILE_PATH="coverage/PythonProject$SumOfInteger.coverage" NAME="SumOfInteger Coverage Results" MODIFIED="1744988883281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2" />
     <SUITE FILE_PATH="coverage/PythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1744990796786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 3" />
     <SUITE FILE_PATH="coverage/PythonProject$Simple_calculator.coverage" NAME="Simple_calculator Coverage Results" MODIFIED="1744889472346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$ErrorHandline.coverage" NAME="ErrorHandline Coverage Results" MODIFIED="1745072598412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 4" />
+    <SUITE FILE_PATH="coverage/PythonProject$Student_dict.coverage" NAME="Student_dict Coverage Results" MODIFIED="1746517916839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 5" />
   </component>
 </project>
